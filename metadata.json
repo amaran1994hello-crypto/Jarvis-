@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI",
+  "description": "Advanced personal AI assistant for Founder Amar with voice commands, system diagnostics, Arc Reactor UI, and calling integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
